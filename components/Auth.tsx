@@ -37,6 +37,7 @@ export default function Auth() {
 
   return (
     <View style={styles.container}>
+      <Text>Test App</Text>
       <Text style={styles.heading}>Please Sign in</Text>
       <View style={[styles.verticallySpaced, styles.mt20]}>
         <Input
